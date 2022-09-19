@@ -7,7 +7,7 @@ Empty class
 
 
 class Rectangle():
-        """
-            Defines empty class rectangle
-                """
-                    pass
+    """
+    Defines empty class rectangle
+    """
+    pass
